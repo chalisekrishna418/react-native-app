@@ -60,3 +60,6 @@ buck-out/
 
 # ignore IDE files
 /.vscode
+
+# ignore environment Configs
+.env
